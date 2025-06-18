@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "CMakeFiles\\game.dir\\item.cpp.obj",
+            "outputs": [
+                "C:\\Users\\rocco\\CLionProjects\\game\\cmake-build-debug\\vc140.pdb",
+                "CMakeFiles\\game.dir\\item.cpp.obj.ddi"
+            ],
+            "requires": []
+        }
+    ]
+}

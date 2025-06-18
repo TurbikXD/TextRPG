@@ -1,0 +1,15 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles\game.dir\main.cpp.obj: dyndep
+
+build CMakeFiles\game.dir\player.cpp.obj: dyndep
+
+build CMakeFiles\game.dir\enemy.cpp.obj: dyndep
+
+build CMakeFiles\game.dir\item.cpp.obj: dyndep
+
+build CMakeFiles\game.dir\room.cpp.obj: dyndep
+
+build CMakeFiles\game.dir\combat.cpp.obj: dyndep
+
+build CMakeFiles\game.dir\Game.cpp.obj: dyndep
+
